@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/navHome"/>
+    <item android:title="Run"
+        android:id="@+id/navRun"
+        android:icon="@drawable/ic_baseline_directions_run_24"/>
+    <item android:title="Metrics"
+        android:id="@+id/navMetrics"
+        android:icon="@drawable/ic_baseline_bar_chart_24"/>
+</menu>
